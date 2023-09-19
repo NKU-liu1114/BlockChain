@@ -7,7 +7,6 @@ account&password.txt保存账户的账号（Address）和私钥（密码）\
 运行split_test_coins.py，将输出分为多份，运行ex1.py将bitcoin发送回faucet\
 split.png和send to faucet.png是在BTC浏览器上查询到的交易记录截图\
 result_send_to_faucet.txt保存送回faucet后的事务输出，result_split.txt保存分为多份消费的事务输出\
-\
 
 
 ## 实验流程
