@@ -1,2 +1,3 @@
 python-bitcoinlib
 requests
+# 即实验需要Python的python-bitcoinlib包
