@@ -3,7 +3,7 @@
 
 >Ex1和Notice为实验指导内容和要求,主要完成拆分可消费的输出和发送回faucet两个任务 \
 config.py存储需要用到的数据，keygen.py用于生成私钥、地址\
-account&password.txt保存账户的账号（Address）和私钥（密码）\
+account&password.txt保存账户的账号（Address）和密码（私钥）\
 运行split_test_coins.py，将输出分为多份，运行ex1.py将bitcoin发送回faucet\
 split.png和send to faucet.png是在BTC浏览器上查询到的交易记录截图\
 result_send_to_faucet.txt保存送回faucet后的事务输出，result_split.txt保存分为多份消费的事务输出\
